@@ -1,0 +1,1 @@
+export interface Lazy<T> { ():Promise<T> }
